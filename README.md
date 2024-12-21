@@ -1,4 +1,4 @@
-# Advent of Code 2024 Solutions
+# My Advent of Code 2024 Solutions
 
 Language: Python
 
